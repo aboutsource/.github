@@ -8,8 +8,8 @@ for.
 #### about:work
 
 We work together in an agile manner for our projects. Key word: [SCRUM](https://scrumguides.org/scrum-guide.html). Our code is on Github and is
-checked for errors using Github Actions before the obligatory code reviews.
-For our continuous integration we also use code review and pull request. We
+checked for errors using Github Actions before the obligatory code review.
+For our continuous integration we also use code reviews and pull requests. We
 want to put sustainable code on the Internet and therefore love it
 pragmatic and clean.
 
