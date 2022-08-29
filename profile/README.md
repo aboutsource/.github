@@ -7,10 +7,9 @@ for.
 
 #### about:work
 
-We work together in an agile manner for our projects. Key word: SCRUM
-<https://scrumguides.org/scrum-guide.html>. Our code is on Github and is
-checked for errors using Github Actions before the obligatory code reviews.
-For our continuous integration we also use code review and pull request. We
+We work together in an agile manner for our projects. Key word: [SCRUM](https://scrumguides.org/scrum-guide.html). Our code is on Github and is
+checked for errors using Github Actions before the obligatory code review.
+For our continuous integration we also use code reviews and pull requests. We
 want to put sustainable code on the Internet and therefore love it
 pragmatic and clean.
 
@@ -26,5 +25,5 @@ discuss the strategic direction of about:source.
 #### What about:you?
 
 Aside from being part of the open source world, we are also open to new
-faces and have a few job postings <https://www.aboutsource.net/jobs.html>
+faces and have a few [job postings](https://www.aboutsource.net/jobs.html)
 on our website. We’re looking forward to your ideas!
